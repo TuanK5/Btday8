@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+.forget{
+    margin-top: 2rem;
+    color: #aaa;
+}
+a{
+    text-decoration: none;
+}
+.all{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to right top, #4757D0, #C151C1);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.box1{
+    width: 60rem;
+    height: 35rem;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+    display: flex;
+    
+}
+.logo{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    width: 50%; 
+    height: 100vh; 
+    padding: 5rem;
+    text-align: center;
+}
+.bt_logo{
+    width: 14rem;
+    height: 14rem;
+    border-radius: 8rem;
+}
+.content input{
+    padding-left: 4rem;
+}
+.conten_Login{
+    margin-top: 2rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 2rem;
+    background-color: #57B845;
+}
+input{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 2rem;
+}
+.kora{margin-top: 1rem;}
+.icon{
+    position: absolute;
+    color: #aaa;
+    padding: 0.8rem 1.3rem;
+}
+.add{margin-top: 6rem;}
+
+
